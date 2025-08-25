@@ -79,6 +79,8 @@ console.log(
   helado.temperaturaRecomendada,
   "grados"
 );
+console.log("OTRA PERSONA MODIFICO ESTE ARCHIVO COMO PRUBE DE USO DE GIT REMOTE");
+
 
 // const leche = new Producto("Sancor", 2.8);
 // const yogurt = new ProductoAlimenticio("Ilolay", 3.0, "2022-12-25");
